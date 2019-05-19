@@ -1,0 +1,8 @@
+{
+    "item_insta_custody_mod_id" : "Selbstmord",
+    "item_insta_custody_mod_desc" : "Wollen Sie sich selbst töten?",
+    "chat_insta_custody_mod_msg" : "\"Instant Custody\" mod was used.",
+ 
+    "dialog_insta_custody_mod_yes" : "Ja",
+    "dialog_insta_custody_mod_no" : "Nein"
+}

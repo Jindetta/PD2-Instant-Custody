@@ -1,0 +1,8 @@
+{
+	"item_insta_custody_mod_id" : "İntihar",
+	"item_insta_custody_mod_desc" : "Kendini öldürmek istiyorsun?",
+	"chat_insta_custody_mod_msg" : "\"Instant Custody\" mod ile intihar etti.",
+
+	"dialog_insta_custody_mod_yes" : "Evet",
+	"dialog_insta_custody_mod_no" : "Yok hayır"
+}

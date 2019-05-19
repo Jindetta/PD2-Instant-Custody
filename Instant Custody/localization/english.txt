@@ -1,0 +1,8 @@
+{
+	"item_insta_custody_mod_id" : "Go into custody",
+	"item_insta_custody_mod_desc" : "Do you want to go into custody?",
+	"chat_insta_custody_mod_msg" : "\"Instant Custody\" mod was used.",
+
+	"dialog_insta_custody_mod_yes" : "Yes",
+	"dialog_insta_custody_mod_no" : "No"
+}

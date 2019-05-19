@@ -1,0 +1,8 @@
+{
+	"item_insta_custody_mod_id" : "Bunuh diri",
+	"item_insta_custody_mod_desc" : "Apakah Anda ingin bunuh diri?",
+	"chat_insta_custody_mod_msg" : "Bunuh diri dengan \"Instant Custody\" mod.",
+
+	"dialog_insta_custody_mod_yes" : "Iya nih",
+	"dialog_insta_custody_mod_no" : "Tidak"
+}

@@ -1,0 +1,8 @@
+{
+	"item_insta_custody_mod_id" : "Самоубийство",
+	"item_insta_custody_mod_desc" : "Вы действительно хотите совершить самоубийство?",
+	"chat_insta_custody_mod_msg" : "совершил самоубийство.",
+
+	"dialog_insta_custody_mod_yes" : "да",
+	"dialog_insta_custody_mod_no" : "Нет"
+}
