@@ -1,14 +1,20 @@
 {
-	"name" : "Instant Custody",
-	"description" : "Go into custody instantly.",
-	"author" : "Jindetta",
-	"contact" : "http://modwork.shop/17271",
-	"version" : "2",
-	"blt_version" : 2,
-	"updates" : [
-		{ "revision" : 14, "identifier" : "InstaCustody" }
-	],
-	"hooks" : [
-		{ "hook_id" : "lib/managers/menumanager", "script_path" : "main.lua" }
-	]
+    "name" : "Instant Custody",
+    "description" : "Go into custody instantly.",
+    "author" : "Jindetta",
+    "contact" : "http://modwork.shop/17271",
+    "version" : "2",
+    "blt_version" : 2,
+    "updates" : [
+        {
+            "revision" : 14,
+            "identifier" : "InstaCustody"
+        }
+    ],
+    "hooks" : [
+        {
+            "hook_id" : "lib/managers/menumanager",
+            "script_path" : "main.lua"
+        }
+    ]
 }
